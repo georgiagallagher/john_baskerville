@@ -3,7 +3,7 @@
 *28 October 2019*  
 Created my first marking up plain text file as an HTML5 page.
 
-- [Version 2](file:///Users/georgiagallagher/OneDrive%20-%20Ulster%20University/GitHub/john_baskerville/baskerville2.html) 
+- [Version 2](https://github.com/georgiagallagher/john_baskerville/blob/gh-pages/baskerville2.html) 
 *04 November 2019*  
 Added CSS.
 
