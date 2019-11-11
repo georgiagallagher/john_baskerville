@@ -58,6 +58,10 @@ blockquote cite {
      font-size: 0.7em;
 }
 
+header h3 {font-style:italic;}
+
+header p {font-size: 1.141em;}
+
 /*--------------FOOTER-------------*/
 footer{
   text-align: center;
