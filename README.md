@@ -1,5 +1,5 @@
 <h1> John Baskerville </h1>
-- [Version 1](https://eleventhirty.github.io/john_baskerville/baskerville1.html)  
+- [Version 1](https://github.com/georgiagallagher/john_baskerville/blob/gh-pages/john_baskerville.html)  
 *28 October 2019*  
 Created my first marking up plain text file as an HTML5 page.
 
