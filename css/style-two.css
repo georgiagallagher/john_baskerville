@@ -9,8 +9,8 @@
 /*------------- MAIN STYLING --------------*/
 
 body {
-  width:70%;
-  max-width: 670px;
+  width:90%;
+  max-width: 750px;
   margin:auto;
   background: #fafafa;
   color: #333;
@@ -18,13 +18,13 @@ body {
 
 /*-----------------TYPOGRAPHY--------------*/
 
-h1, h2, h3, {
+h1, h2 {
   font-weight: normal;
-  color:#FFA500:inherit;
-  text align: center;
+  color:#BF3C5A;
+  text-align: center;
 }
 
-p,blockquote {
+p, blockquote {
   margin-bottom:1.53em;
 }
 
@@ -32,24 +32,24 @@ p,blockquote {
 h1 {font-size: 2.827em;
     margin-top: 2em;
     margin-bottom: 0.1em;
-    color:#FFA500:inherit;
+    font-weight: bold;
+
   }
 
 h2 {font-size: 1.999em;
     margin: 3em 0 1em 0
   }
 
-h3 {font-size: 1.414em;
-    margin-bottom: 1.5em }
 
 blockquote {
     font-size: 1.414em;
     hanging-punctuation: first;
     text-indent: -0.08em;
+    color:#BF3C5A;
 }
 
 blockquote cite {
-     font-size: 0.44em;
+     font-size: 0.75em;
 }
 
 /*--------------FOOTER-------------*/
