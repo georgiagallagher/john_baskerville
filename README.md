@@ -18,10 +18,10 @@ History of Type
 
 - [Version 1](https://georgiagallagher.github.io/john_baskerville/brief_history_of_type.html)
 *6 November 2019*
-Created a basic HTML5 page.
+  Created a basic HTML5 page.
 
 - [Version 2](https://georgiagallagher.github.io/john_baskerville/brief_history_of_type2.html)
 *12 November 2019*
-Added CSS. 
+  Added CSS. 
   
 
