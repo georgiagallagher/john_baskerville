@@ -1,0 +1,61 @@
+/*---------- CSS Reset -------*/
+
+*{
+    padding:0;
+    margin: 0;
+    font-size: 100%;
+    line-height: 1em;
+}
+/*------------- MAIN STYLING --------------*/
+
+body {
+  width:90%;
+  max-width: 750px;
+  margin:auto;
+  background: #fafafa;
+  color: #333;
+  font-family: 'Playfair Display', serif;
+}
+
+/*-----------------TYPOGRAPHY--------------*/
+
+h1, h2 {
+  font-weight: normal;
+  color:#BF3C5A;
+  text-align: center;
+}
+P{font-family: 'Lato', sans-serif;}
+p, blockquote {
+  margin-bottom:1.53em;
+}
+
+
+h1 {font-size: 2.827em;
+    margin-top: 2em;
+    margin-bottom: 0.1em;
+    font-weight: bold;
+
+  }
+
+h2 {font-size: 1.999em;
+    margin: 3em 0 1em 0
+  }
+
+
+blockquote {
+    font-size: 1.414em;
+    hanging-punctuation: first;
+    text-indent: -0.08em;
+    color:#BF3C5A;
+}
+
+blockquote cite {
+     font-size: 0.75em;
+}
+
+/*--------------FOOTER-------------*/
+footer{
+  text-align: center;
+  font-size: 0.717em;
+  padding: 2em 0 4em 0
+}
