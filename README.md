@@ -1,4 +1,5 @@
 <h1> John Baskerville </h1>
+<h1> John Baskerville </h1>
 
 - [Version 1](https://georgiagallagher.github.io/john_baskerville/john_baskerville.html)
 *28 October 2019*
@@ -28,4 +29,3 @@ History of Type
 *12 November 2019*
 
   Added CSS.
-  
