@@ -33,4 +33,4 @@ History of Type
 - [Version 3](https://georgiagallagher.github.io/john_baskerville/brief_history_of_type3.html)
 *14 November 2019*
 
-Added web fonts. 
+  Added web fonts. 
