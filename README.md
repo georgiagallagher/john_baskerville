@@ -1,4 +1,4 @@
-<h1> John Baskerville </h1>
+
 <h1> John Baskerville </h1>
 
 - [Version 1](https://georgiagallagher.github.io/john_baskerville/john_baskerville.html)
