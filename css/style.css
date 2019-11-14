@@ -45,7 +45,9 @@ h2 {font-size: 1.999em;
 h3 {font-size: 1.414em;
     margin-bottom: 1.5em }
 
-
+    a:link {
+      text-decoration: none;
+    }
 
 blockquote {
     font-size: 1.414em;
