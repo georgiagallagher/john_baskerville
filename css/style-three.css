@@ -33,7 +33,9 @@ p, blockquote {
 h1 {font-size: 2.827em;
     margin-top: 2em;
     margin-bottom: 0.1em;
-    font-weight: bold;
+    font-weight: bolder;
+    color:#8D2645;
+
 
   }
 
