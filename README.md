@@ -15,6 +15,11 @@
 *11 November 2019*
 
   Introduced web fonts.
+  
+- [Version 4](https://georgiagallagher.github.io/john_baskerville/baskerville4.html)
+*18 November 2019*
+
+  Fixed links and nav.
 
 
 History of Type
