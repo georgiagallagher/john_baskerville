@@ -67,6 +67,55 @@ header h3 {font-style:italic;}
 
 header p {font-size: 1.141em;}
 
+/*-----------STYLING LINKS-----------*/
+a {
+  color: #8F0040;
+  text-decoration:none;
+
+}
+
+a:hover {
+    color: #E9B6C9;
+    border-bottom: 1px dotted;
+
+}
+
+/*------------------- NAVIGATION ------------------*/
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 0;
+    width: 100%;
+    background-color: #8F0040;
+    padding: 1em 0;
+    font-size: 0.75em;
+}
+
+nav ul {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+nav ul li {
+    display: inline;
+    margin: 20px;
+}
+
+nav a:link {
+    color: #fafafa;
+}
+
+nav a:visited {
+    color: #fafafa;
+}
+
+nav a:hover {
+    border-bottom: none;
+    color: #E9B6C9;
+
+}
 
 
 /*--------------FOOTER-------------*/
