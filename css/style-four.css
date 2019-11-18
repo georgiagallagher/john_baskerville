@@ -114,11 +114,22 @@ nav a:visited {
 nav a:hover {
     border-bottom: none;
     color: #E9B6C9;
+/*-----------------DIV CLASS (CHECK GITHUB)----------
+}
+.baskerville {
+  background: #333
+  color: #fafafa;
+  padding: 2em 0;
 
+}
+
+.baskerville h2 {
+  color: #E9B6C9;
 }
 
 
 /*--------------FOOTER-------------*/
+
 footer{
   text-align: center;
   font-size: 0.707em;
