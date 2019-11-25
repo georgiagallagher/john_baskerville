@@ -114,24 +114,48 @@ nav a:visited {
 nav a:hover {
     border-bottom: none;
     color: #E9B6C9;
-/*-----------------DIV CLASS (CHECK GITHUB)----------
-}
-.baskerville {
-  background: #333
-  color: #fafafa;
-  padding: 2em 0;
+  }
 
+
+/*--------------TABLE STYLING-----------------*/
+
+
+table {
+  margin:auto;
+  display:table;
+  border-collapse: collapse;
+  border-spacing: 2px;
+  margin-bottom: 2em;
+  width: 100%;
 }
 
-.baskerville h2 {
-  color: #E9B6C9;
+caption {
+  margin-bottom: 1.75em;
+  text-transform: uppercase;
+}
+
+th {
+color: #fafafa;
+text-transform: uppercase;
+font-weight: normal;
+text-align: left;
+background: #8F0040;
+}
+
+th,td {
+  padding: .6em;
+}
+
+table,td {
+  background: #E9B6C9;
+  border: 1px solid #fafafa;
 }
 
 
 /*--------------FOOTER-------------*/
 
 footer{
-  text-align: center;
+  text-align:center;
   font-size: 0.707em;
   padding: 2em 0 4em 0;
 }
