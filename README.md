@@ -21,6 +21,7 @@
 
 - [Version 5](https://georgiagallagher.github.io/john_baskerville/baskerville5.html)
 *25 November 2019*
+  
   Added table and images.
 
 
