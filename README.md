@@ -19,8 +19,11 @@
 - [Version 4](https://georgiagallagher.github.io/john_baskerville/baskerville4.html)
 *18 November 2019*
 
+  Added list. 
+  
 - [Version 5](https://georgiagallagher.github.io/john_baskerville/baskerville5.html)
 *25 November 2019*
+  
   Added table and images.
 
 
