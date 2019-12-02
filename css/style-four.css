@@ -8,6 +8,7 @@
 }
 /*------------- MAIN STYLING --------------*/
 
+
 body {
   width:70%;
   max-width: 670px;
@@ -17,8 +18,28 @@ body {
   font-family: 'Libre Baskerville', serif;
 }
 
-/*-----------------TYPOGRAPHY--------------*/
+section, aside, header, footer {
 
+
+}
+
+article {
+  display:flex;}
+
+.main {flex: 3;
+padding-right: 1em;}
+
+aside{
+  flex:1;
+  font-size: 0.75em;
+  font-style: italic;
+  border-left: 1px solid #333;
+  padding: 1em;
+}
+/*-----------------TYPOGRAPHY--------------*/
+section, header, footer {width:100%;
+max-width: 1000px;
+margin: auto;}
 h1, h2, h3 {
   font-weight: normal;
   color: #8F0040;
@@ -38,10 +59,12 @@ p, blockquote {
 h1 {font-size: 2.827em;
     margin-top: 2em;
     margin-bottom: 0.1em;
+    font-weight: bolder;
   }
 
 h2 {font-size: 1.999em;
     margin: 3em 0 1em 0;
+    font-weight: bolder;
   }
 
 h3 {font-size: 1.414em;
@@ -67,6 +90,35 @@ header h3 {font-style:italic;}
 
 header p {font-size: 1.141em;}
 
+.dark {background: #333;
+color: #fafafa
+padding: 2em 0}
+
+/*---------------------TABLET------------*/
+@media (max-width: 50em) {
+
+    body {
+
+        width: 100%;
+    }
+
+header p, article {
+    width: 95%;
+    padding: 0.5em;
+    }
+
+article { flex-flow: column;
+          flex-direction: column;}
+
+section { width: 90%}
+
+.aside {border-left: none;
+        margin: 0;
+        padding-left: 1em;
+    font-size: 1.2em}
+}
+/*---------------SMARTPHONE----------*/
+
 /*-----------STYLING LINKS-----------*/
 a {
   color: #8F0040;
@@ -90,6 +142,7 @@ nav {
     background-color: #8F0040;
     padding: 1em 0;
     font-size: 0.75em;
+    box-shadow: 0 0 10px 0 black;
 }
 
 nav ul {
@@ -114,6 +167,13 @@ nav a:visited {
 nav a:hover {
     border-bottom: none;
     color: #E9B6C9;
+  }
+
+.baskerville {
+      background:#8F0040;
+      color: #fafafa;
+      padding: 2em 0;
+      width: 100%;
   }
 
 
@@ -166,4 +226,37 @@ footer{
   text-align:center;
   font-size: 0.707em;
   padding: 2em 0 4em 0;
+  max-width: 100%;
+
 }
+page-footer a {
+     color: #fff;
+}
+.connections {
+	position: relative;
+	margin: 0 auto;
+}
+
+.connections ul {
+	margin: 0;
+	padding: 0;}
+
+.connections li {
+	margin: 0 15px;
+	padding: 0;
+	list-style: none;
+	display: inline-block;}
+
+.connections a:link {
+	border-bottom: none;}
+
+.connections img {
+	opacity: 0.5;
+    border: none;
+	}
+
+ .connections a:hover img {
+		opacity: 1.0;
+		border-bottom: none;
+		transition: all 0.3s ease-in-out;
+				}
