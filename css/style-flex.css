@@ -23,6 +23,19 @@ section, aside, header, footer {
 
 }
 
+article {
+  display:flex;}
+
+.main {flex: 3;
+padding-right: 1em;}
+
+aside{
+  flex:1;
+  font-size: 0.75em;
+  font-style: italic;
+  border-left: 1px solid #333;
+  padding: 1em;
+}
 /*-----------------TYPOGRAPHY--------------*/
 section, header, footer {width:100%;
 max-width: 1000px;
