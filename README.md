@@ -25,6 +25,11 @@
 *25 November 2019*
   
   Added table and images.
+  
+- [Version 6](https://georgiagallagher.github.io/john_baskerville/baskerville6.html)
+*2 December 2019*
+
+  Applied flexbox. 
 
 
 History of Type
