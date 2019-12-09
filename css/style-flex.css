@@ -36,6 +36,7 @@ aside{
   border-left: 1px solid #333;
   padding: 1em;
 }
+
 /*-----------------TYPOGRAPHY--------------*/
 section, header, footer {width:100%;
 max-width: 1000px;
@@ -225,9 +226,9 @@ img {
 footer{
   text-align:center;
   font-size: 0.707em;
-  padding: 2em 0 4em 0;
+  padding: 2em 1 6em 0;
   max-width: 100%;
-
+  box-shadow: 0 50vh 0 50vh #8F0040;
 }
 page-footer a {
      color: #fff;
