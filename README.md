@@ -49,3 +49,17 @@ History of Type
 *14 November 2019*
 
   Added web fonts. 
+
+- [Version 4](https://georgiagallagher.github.io/john_baskerville/brief_history_of_type4.html)
+*19 November 2019*
+
+  Added list. 
+  
+- [Version 5](https://georgiagallagher.github.io/john_baskerville/brief_history_of_type5.html)
+*27 November 2019*
+
+  Converted list into table and added images.
+  
+- [Version 6](https://georgiagallagher.github.io/john_baskerville/brief_history_of_type6.html)
+*4 December 2019*
+
