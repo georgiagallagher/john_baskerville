@@ -60,6 +60,4 @@ History of Type
 
   Converted list into table and added images.
   
-- [Version 6](https://georgiagallagher.github.io/john_baskerville/brief_history_of_type6.html)
-*4 December 2019*
 
